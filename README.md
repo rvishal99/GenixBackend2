@@ -23,8 +23,7 @@ Welcome to **Genix Auctions**, a platform where users can register, log in, and 
 
 - User Authentication (Register, Login, Logout)
 - Password Management (Forgot Password, Reset Password)
-- Product Management (Create, Read, Update, Delete products)
-- User Profile Management
+- Product Management (Create, Read, Update products)
 - Bidding System
 - Swagger API Documentation
 - Redux for State Management
