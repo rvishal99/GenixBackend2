@@ -24,7 +24,7 @@ app.use(cookieParser());
 
 
 app.use(cors({
-    origin: '*',
+    origin: 'https://genix-front.vercel.app/',
     credentials: true,
 }));
 
