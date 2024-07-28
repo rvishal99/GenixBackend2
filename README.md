@@ -42,5 +42,6 @@ To get a local copy of the project up and running, follow these simple steps.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/genix-auctions.git
-cd genix-auctions
+git clone https://github.com/rvishal99/GenixBackend2
+npm i
+npm run dev
