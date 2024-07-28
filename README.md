@@ -2,7 +2,7 @@
 
 ## Author: R Vishal
 
-![Genix Auction API Doc](./assets/Screenshot 2024-07-28 233543.png) 
+![Genix Auction API Doc](./assets/Screenshot%202024-07-28%20233543.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
